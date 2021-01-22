@@ -536,3 +536,7 @@ ReferenceError — An illegal reference has occurred
 SyntaxError — A syntax error has occurred
 TypeError — A type error has occurred
 URIError — An encodeURI() error has occurred
+
+
+
+https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf
