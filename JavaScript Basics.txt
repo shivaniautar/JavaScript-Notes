@@ -540,3 +540,7 @@ URIError — An encodeURI() error has occurred
 
 
 https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf
+
+
+
+Other notes: http://users.nccs.gov/~fwang2/web/javascript.html
